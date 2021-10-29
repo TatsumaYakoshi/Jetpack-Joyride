@@ -1,0 +1,38 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+Jetpack Joyride Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+High Level
+
+Lots of Coins
+
+All Jetpacks Unlocked
+
+All Costumes Unlocked
+
+All Vehicles Unlocked
+
+Most Gadgets Unlocked
+
+Most Powerups Unlocked
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"game_save.bin"}
+
+{"to":"/data/data/com.halfbrick.jetpackjoyride/files/game_save.bin"}
+
+[END]
+
+Save Edited Enjoy 
